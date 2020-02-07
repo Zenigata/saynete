@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Saynète
 ---
 
-## Welcome to Hollywoo
+## Saynète
 
-Hello. I am BoJack. Horseman, obviously
+Expliquer brièvement un concept, mais sans évoquer le monde du travail
