@@ -5,6 +5,7 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy --pathprefix="/" && npm run sass
 deploy:
+  fqdn: saynete.johanbonneau.com
   local-dir: _site
   provider: pages
   skip-cleanup: true
