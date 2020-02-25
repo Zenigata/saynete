@@ -1,0 +1,8 @@
+{
+  "ltex.ignoreRuleInSentence": [
+    {
+      "rule": "FR_SPELLING_RULE",
+      "sentence": "^\\QLe kiwi ne vole plus mais c'est tout de même un oiseau, le seul du genre Apteryx – terme venant du grec ancien « sans aile ».\\E$"
+    }
+  ]
+}
