@@ -1,8 +1,7 @@
 ---
-title: 14 - Persona
+title: 14 - Bus factor
 date: 2020-02-20
 eleventyExcludeFromCollections: true
 ---
 
-Jeu de rôle
-utilisateur
+Is this Funeral Parlor B?
