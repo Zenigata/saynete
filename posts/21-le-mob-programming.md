@@ -14,7 +14,7 @@ Bienvenue à cette nouvelle session du jeu *Baba is you* !
 
  * Arrêtez de débattre. Essayez !
  * Écoutez les autres avant d'imposer votre idée.
- * Faites de petits pas.
+ * Avancez par petits pas.
  * Soyez bienveillant et respectueux.
 
-### *C'est parti pour le niveau 1 de l'Île : Baba Is You !*
+### C'est parti pour le niveau 2 de l'Île intitulé *Where Do I Go?*
