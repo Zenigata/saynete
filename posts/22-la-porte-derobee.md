@@ -9,4 +9,4 @@ Pourtant il existe deux portes dérobées menant à Accalmie.
 
 Le premier accès est connu sous le nom de passage interdit. C'est une voie secrète qui permet d'accéder au sous-sol du château via une caverne qui passe sous la falaise. Il a été mis en place dès la construction de la forteresse par Durran, premier roi de l'Orage, durant l'Âge des Héros.
 
-L'autre accès, lui, n'était pas prévu. C'est un passage naturel protégé qui permet d'accéder par la mer à une partie non surveillée des abords du château. Il a été découvert par Davos lors de ses activités de contrebandier. C'est d'ailleurs ce passage qu'il a usité pour sauver Stannis et les siens lors du siège d'Acclamie pendant la Rébellion de Robert. Il en a acquis le surnom de *Chevalier Oignon*.
+L'autre accès, lui, n'était pas prévu. C'est un passage naturel protégé qui permet d'accéder par la mer à une partie non surveillée des abords du château. Il a été découvert par Davos lors de ses activités de contrebandier. C'est d'ailleurs ce passage qu'il a usité pour sauver Stannis et les siens lors du siège d'Accalmie pendant la Rébellion de Robert. Il en a acquis le surnom de *Chevalier Oignon*.
