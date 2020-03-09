@@ -3,7 +3,7 @@ title: 24 - Gestionnaire de version
 date: 2020-03-05
 ---
 
-Je suis magopinaciophile. Avec mes potes on collectionne les tracts des marabouts et autres charlatans. Vous savez, ceux qui garantissent le retour immédiat de l'être aimé, la guérison de l'impuissance, ou encore l'amincissement à volonté. Oh, et aussi la réparation des appareils à distance, par télépathie -- ou téléphone au pire.
+Je suis magopinaciophile. Avec mes potes on collectionne les tracts des marabouts et autres charlatans. Vous savez, ceux qui garantissent le retour immédiat de l'être aimé, la guérison de l'impuissance, ou encore l'amincissement à volonté. Oh, et aussi la réparation des appareils à distance, par télépathie – ou téléphone au pire.
 
 Ce monde fascinant est le quotidien de mon club. Entre nous on s'appelle les *mago*. Être un mago est un travail d'orfèvre pénible mais tellement jouissif. On est ultra-organisés. Je vous explique.
 
