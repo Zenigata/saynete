@@ -16,11 +16,11 @@ J'achète des ingrédients au hasard. Je les fais cuire comme je peux. Je les as
 Puis je goûte, j'évalue, j'apprends et je change quelque chose s'il le faut avant de recommencer à nouveau.
 
 *Démarche 2.*
-Je paie cher pour accéder aux recettes d'un chef étoilé. Et je ne fais plus que ça, tout le temps.
+Je paie cher pour accéder aux recettes d'un chef étoilé. Et je ne cuisine plus que ça, à la lettre, tout le temps.
 
 *Démarche 3.*
 Je suis une recette populaire.
 Puis je goûte, j'évalue, j'apprends et je change quelque chose s'il le faut avant de recommencer à nouveau.
-Au bout de plusieurs essais réussis, je fais varier des paramètres selon mes besoins ou ma convenance. Et un jour peut-être, fort de mon expérience, je crée ma propre recette.
+Au bout de plusieurs essais réussis, je fais varier des paramètres selon mes besoins ou ma convenance. Et un jour peut-être, fort de mon expérience, je créerais ma propre recette.
 
 *Quelle démarche choisiriez-vous ?*
